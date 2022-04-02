@@ -7,6 +7,8 @@ type: about
 
 
 
-*哪里会有人喜欢孤独，不过是不喜欢失望罢了。*    ——村上春树《挪威的森林》
+哪里会有人喜欢孤独，不过是不喜欢失望罢了。    *——村上春树《挪威的森林》*
+
+No money, no honey.      *——from twitter *
 
 [NexT主题](https://theme-next.iissnan.com/) &nbsp;\|&nbsp;  [站点示例](https://simpleyyt.com/jekyll-theme-next/) &nbsp; 
