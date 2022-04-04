@@ -2,7 +2,7 @@
 title: 极简主义之路
 date: 2022-3-24 8:56:00
 categories:
-- 日志
+- 书摘
 tags:
 ---
 
