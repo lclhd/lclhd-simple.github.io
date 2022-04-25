@@ -7,7 +7,7 @@ tags:
 ---
 上班太无聊，抱着值班机不知道访问哪个网站，我也只记得自己的博客，还是准备好一些有意思的东西给自己看吧，少把时间浪费在没意思的人身上。
 
-* Ghost是我见过的最好的博客平台之一：[Ghost Blog部署指南](https://sspai.com/post/68855)、[使用Ghost打造个人站点](https://xiaoyc.com/2020/10/15/2020-10-build-website-with-ghost/)、[How to install Ghost on Ubuntu](https://ghost.org/docs/install/ubuntu/#install-ghost-cli)
+* [使用Ghost打造个人站点](https://xiaoyc.com/2020/10/15/2020-10-build-website-with-ghost/)
 * [在GitHub上部署Hexo](https://www.jianshu.com/p/189fd945f38f)
 * 推荐电影[【见龙卸甲】](https://www.nnyy6.top/dianying/26718.html)
 * [Anki使用指南（中文）](http://www.ankichina.net/manual/anki/)
