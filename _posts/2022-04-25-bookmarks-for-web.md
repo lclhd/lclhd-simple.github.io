@@ -25,3 +25,4 @@ tags:
 * [计算机教育中缺失的一课—-MIT](https://missing-semester-cn.github.io/)
 * Jekyll官网上面这个好看的字体我要了 [Jekyll](https://jekyllrb.com)
 * [抑郁症治疗：来自澳大利亚土著的六万年古方](https://www.bbc.com/ukchina/simp/vert-tra-50025140)
+* 图书宝藏[z-lib](z-lib.org)
