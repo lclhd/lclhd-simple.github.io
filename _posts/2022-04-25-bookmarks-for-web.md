@@ -10,6 +10,7 @@ tags:
 * [使用Ghost打造个人站点](https://xiaoyc.com/2020/10/15/2020-10-build-website-with-ghost/)
 * [在GitHub上部署Hexo](https://www.jianshu.com/p/189fd945f38f)
 * 推荐电影[【见龙卸甲】](https://www.nnyy6.top/dianying/26718.html)
+* 老版[三国演义](https://www.nnyy6.top/dianshiju/5249.html)
 * [Anki使用指南（中文）](http://www.ankichina.net/manual/anki/)
 * [solidot寄客](https://www.solidot.org)
 * [少数派](https://sspai.com)
