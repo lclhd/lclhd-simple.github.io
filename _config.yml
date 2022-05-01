@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Cyan's blog
+title: Neutron's blog
 subtitle:
 description: 记录一些琐碎日常
-author: Cyan Lee
+author: Neutron
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
