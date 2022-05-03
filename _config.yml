@@ -6,7 +6,7 @@
 # Site
 title: Neutron's blog
 subtitle:
-description: 记录一些琐碎日常
+description: To record some thinkings
 author: Neutron
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -90,10 +90,10 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: none
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -121,7 +121,7 @@ menu:
   categories: /categories/
   about: /about/
   archives: /archives/
-  tags: /tags/
+  #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
