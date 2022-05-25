@@ -1,3 +1,11 @@
+---
+title: GOTRANSCRIPT转录指南
+date: 2022-5-25 9:49
+categories:
+- 日志
+tags:
+---
+
 # GOTRANSCRIPT转录指南
 
 #### 如有疑问，请联系info@gotranscript.com。
