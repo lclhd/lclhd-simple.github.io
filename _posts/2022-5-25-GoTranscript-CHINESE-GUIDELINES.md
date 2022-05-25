@@ -276,7 +276,11 @@ tags:
 # 链接：
 
 [**https://gotranscript.com/transcribing-software](https://gotranscript.com/transcribing-software) **- GoTranscript online tool for transcribers**
+
 <http://www.nch.com.au/scribe/> - Software for transcribers
+
 <http://grammar.about.com/>
+
 <http://www.thefreedictionary.com/>
+
 
