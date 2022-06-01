@@ -25,7 +25,7 @@ categories:
 
 - Expressions should be kept regardless of verbatim type: Oh my God, Oh dear, Oh my, Oh boy, Oh, et cetera.
 
-- Slang word must be written as "got you" instead of "gotcha", "going to" instead of "gonna", "want to" instead of "wanna", "because" instead of "'cause" et cetera.
+- **Slang word** must be written as "got you" instead of "gotcha", "going to" instead of "gonna", "want to" instead of "wanna", "because" instead of "'cause" et cetera.
 
 - "Yeah", "yep", "yap", "yup", "mm-hmm" must be written as "yes"; "alright" must be written as "all right".
 
