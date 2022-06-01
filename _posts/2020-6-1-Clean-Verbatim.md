@@ -2,11 +2,8 @@
 title: Clean Verbatim
 date: 2022-6-1 0:00:00
 categories:
-
 - 日志
-
-  tags:
-
+tags:
 ---
 
 # Clean Verbatim
