@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-# Clean Verbatim
+## Clean Verbatim
 
 ### The transcribed text does not include:
 
