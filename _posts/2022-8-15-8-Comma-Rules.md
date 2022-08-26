@@ -1,3 +1,11 @@
+---
+title: 8 Comma Rules
+date: 2021-8-15 8:56:00
+categories:
+- English
+tags:
+---
+
 ## 1.Use commas to separate items in a series of three or more things.
 Remember that an "item" may refer to a noun, verb, or adjective phrase.
 
