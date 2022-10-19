@@ -13,7 +13,7 @@ Remember that an "item" may refer to a noun, verb, or adjective phrase.
 Note: Usage of comma to separate the second-to-last item is optional.
 
 Example: I bought ham, cheese, and bread.
-
+<!-- more --> 
 ## 2.Use a comma to separate independent clauses (complete thoughts) when they are joined by the following conjunctions:
 
 F(for)A(and)N(nor)B(but)O(or)Y(yet)S(so), that is FANBOYS
