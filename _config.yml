@@ -90,10 +90,10 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: none
+authoricon: 😘
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: 😘
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
